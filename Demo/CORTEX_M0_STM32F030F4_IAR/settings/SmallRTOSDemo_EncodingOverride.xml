@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>H:\SmallRTOS_v1.01\Demo\CORTEX_M3_STM32F030F4_IAR\user\SmallRTOSConfig.h</path>
+    <encoding>UTF-8</encoding>
+  </override>
+</userOverrides>
+
+
