@@ -14,3 +14,5 @@ http://www.smallrtos.com/ 商业授权及支持网站
 This is modified by Peter, but he has no rights to the code, because it is open source.
 ps. modified by panjunwei
 pss.how two branches merged.
+pps.Created a new branch by qihoo.
+ppps.conflict merge.
